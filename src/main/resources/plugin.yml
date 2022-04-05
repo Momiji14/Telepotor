@@ -1,0 +1,10 @@
+name: Teleportor
+version: '${project.version}'
+main: momineko.teleportor.teleportor.main
+api-version: 1.17
+authors: [ MomiNeko ]
+
+commands:
+  teleportor:
+    description: teleportor
+    usage: /<command>
