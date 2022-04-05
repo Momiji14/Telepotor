@@ -1,6 +1,8 @@
 # Telepotor
 転移門が作れるPluginです
 
+Download: https://github.com/Momiji14/Telepotor/releases
+
 1. /telepotor create <id> 転移ゲートを作成します
 2. /telepotor delete <id> 転移ゲートを削除します
 3. /telepotor setLocation <id> [<world> <x> <y> <z> <yaw> <pitch>] 転移ゲートの座標を設定します
